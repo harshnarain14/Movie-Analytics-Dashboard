@@ -15,6 +15,13 @@ Project Structure
 
 /Insights Summary.docx— Key observations and business recommendations
 
+Dashboard Preview___
+
+![Dashboard1](images/Dashboard1.png)
+![Dashboard2](images/Dashboard2.png)
+![Dashboard3](images/Dashboard3.png)
+![Dashboard4](images/Dashboard4.png)
+![Dashboard5](images/Dashboard5.png)
 How to open:
 
 for dataset oen it in Excel
